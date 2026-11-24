@@ -1,5 +1,5 @@
 // file.kt
 function println(params) {
-    console.log("Hello, World")
+    console.log("Hello, World.")
 }
 println();
